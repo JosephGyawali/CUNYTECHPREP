@@ -1,0 +1,40 @@
+
+
+.about-us{
+    background-color: rgb(201, 198, 198);
+}
+
+.contact {
+    background-color: rgb(63, 182, 221);
+    color: white;
+    height: 140px;
+}
+
+.circular {
+    border-radius: 50%;
+}
+
+
+#block {
+    display: block;
+}
+
+.banner{
+    background-image: url('../img/milkbg.jpg'); 
+    background-repeat: no-repeat; 
+    background-size:cover; 
+    background-position:center; 
+    position:relative;
+    height: 450px;
+    color: white;
+}
+
+.transparent{    
+    opacity: 0.6;
+    background-color: black;
+}
+
+.circularish {
+    border-radius: 5%;
+}
+
